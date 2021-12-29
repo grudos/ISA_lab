@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Main-Class: application.FindAthleteApplication
+Class-Path: netty-codec-4.1.52.Final.jar spring-cloud-context-2.2.5.RELE
+ ASE.jar spring-security-rsa-1.0.9.RELEASE.jar reactor-extra-3.3.4.RELEA
+ SE.jar spring-context-5.2.9.RELEASE.jar log4j-api-2.13.3.jar netty-code
+ c-http-4.1.52.Final.jar spring-boot-starter-webflux-2.3.4.RELEASE.jar n
+ etty-resolver-4.1.52.Final.jar spring-cloud-starter-gateway-2.2.5.RELEA
+ SE.jar spring-cloud-starter-2.2.5.RELEASE.jar netty-transport-native-ep
+ oll-4.1.52.Final-linux-x86_64.jar spring-expression-5.2.9.RELEASE.jar j
+ ackson-module-parameter-names-2.11.2.jar spring-boot-starter-validation
+ -2.3.4.RELEASE.jar netty-handler-proxy-4.1.52.Final.jar reactor-core-3.
+ 3.10.RELEASE.jar jakarta.annotation-api-1.3.5.jar logback-classic-1.2.3
+ .jar netty-codec-socks-4.1.52.Final.jar netty-common-4.1.52.Final.jar n
+ etty-buffer-4.1.52.Final.jar spring-boot-starter-reactor-netty-2.3.4.RE
+ LEASE.jar bcpkix-jdk15on-1.64.jar jul-to-slf4j-1.7.30.jar spring-boot-s
+ tarter-json-2.3.4.RELEASE.jar spring-boot-autoconfigure-2.3.4.RELEASE.j
+ ar spring-web-5.2.9.RELEASE.jar jackson-databind-2.11.2.jar slf4j-api-1
+ .7.30.jar logback-core-1.2.3.jar jackson-annotations-2.11.2.jar jackson
+ -core-2.11.2.jar spring-cloud-commons-2.2.5.RELEASE.jar netty-codec-htt
+ p2-4.1.52.Final.jar jackson-datatype-jdk8-2.11.2.jar nio-stream-storage
+ -1.1.3.jar nio-multipart-parser-1.1.0.jar netty-transport-4.1.52.Final.
+ jar spring-core-5.2.9.RELEASE.jar jboss-logging-3.4.1.Final.jar log4j-t
+ o-slf4j-2.13.3.jar hibernate-validator-6.1.5.Final.jar reactive-streams
+ -1.0.3.jar classmate-1.5.1.jar jakarta.el-3.0.3.jar reactor-netty-0.9.1
+ 2.RELEASE.jar lombok-1.18.12.jar spring-boot-starter-2.3.4.RELEASE.jar 
+ jackson-datatype-jsr310-2.11.2.jar spring-cloud-gateway-core-2.2.5.RELE
+ ASE.jar spring-aop-5.2.9.RELEASE.jar spring-jcl-5.2.9.RELEASE.jar sprin
+ g-webflux-5.2.9.RELEASE.jar netty-transport-native-unix-common-4.1.52.F
+ inal.jar bcprov-jdk15on-1.64.jar snakeyaml-1.26.jar spring-beans-5.2.9.
+ RELEASE.jar jakarta.validation-api-2.0.2.jar spring-boot-2.3.4.RELEASE.
+ jar spring-boot-starter-logging-2.3.4.RELEASE.jar spring-security-crypt
+ o-5.3.4.RELEASE.jar netty-handler-4.1.52.Final.jar
+

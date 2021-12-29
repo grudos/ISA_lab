@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="Find athlete web application"/>
+    <meta name="keywords" content="Athlete"/>
+    <meta name="author" content="Jakub Grudowski"/>
+    <title>Athlete Application</title>
+    <link rel="stylesheet" href="../styles.css"/>
+    <link rel="stylesheet" href="disciplines_view.css"/>
+    <script src="../script.js" defer="defer"></script>
+    <script type="module" src="disciplines_view.js" defer="defer"></script>
+</head>
+<body>
+<div class="container">
+    <header class="header">
+        <h1>Athlete Application</h1>
+    </header>
+
+    <nav class="navigation-bar">
+        <ul>
+            <li><a href="../index.html">main</a></li>
+            <li><a href="../about/about.html">about</a></li>
+            <li><a href="../disciplines_list/disciplines_list.html">disciplines</a></li>
+        </ul>
+    </nav>
+
+    <section class="main-section">
+        <article class="text--justified">
+            <header><h2>Discipline</h2></header>
+            <section>
+                <h3>Details</h3>
+                <div class="details-grid">
+                    <label for="name">Name:</label><span id="name">name</span>
+                    <label for="typeOfSport">Type of sport:</label><span id="typeOfSport">Type of sport</span>
+                    <label for="numberOfFans">Number of fans:</label><span id="numberOfFans">Number of fans</span>
+                </div>
+            </section>
+            <section>
+                <h3>Athletes</h3>
+
+                <table class="data-table-2">
+                    <thead>
+                    <tr>
+                        <th>Create athlete</th>
+                    </tr>
+                    </thead>
+                    <tbody id="createBody">
+                    <tr>
+                        <td><a href="#"></a></td>
+                    </tr>
+                    </tbody>
+                </table>
+
+                <br>
+
+                <table class="data-table">
+                    <thead>
+                    <tr>
+                        <th>name</th>
+                        <th>edit</th>
+                        <th>view</th>
+                        <th>delete</th>
+                    </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                    <tr>
+                        <td>name</td>
+                        <td><a href="#">edit</a></td>
+                        <td><a href="#">view</a></td>
+                        <td>
+                            <button class="ui-button ui-control">delete</button>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </section>
+        </article>
+    </section>
+
+    <footer class="footer">
+        <p>Jakub Grudowski</p>
+    </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="Find athlete web application"/>
+    <meta name="keywords" content="Athlete"/>
+    <meta name="author" content="Jakub Grudowski"/>
+    <title>Athlete Application</title>
+    <link rel="stylesheet" href="../styles.css"/>
+    <link rel="stylesheet" href="discipline_create.css"/>
+    <script src="../script.js" defer="defer"></script>
+    <script type="module" src="discipline_create.js" defer="defer"></script>
+</head>
+<body>
+<div class="container">
+    <header class="header">
+        <h1>Athlete Application</h1>
+    </header>
+
+    <nav class="navigation-bar">
+        <ul>
+            <li><a href="../index.html">main</a></li>
+            <li><a href="../about/about.html">about</a></li>
+            <li><a href="../disciplines_list/disciplines_list.html">disciplines</a></li>
+        </ul>
+    </nav>
+
+    <section class="main-section">
+        <article class="text--justified">
+            <header><h2>Create discipline</h2></header>
+            <form class="discipline__form" id="infoForm">
+                <label for="name">Discipline:</label>
+                <input class="ui-control ui-input" id="name" name="name"/>
+                <label for="typeOfSport">Type of sport:</label>
+                <input class="ui-control ui-input" id="typeOfSport" name="typeOfSport"/>
+                <label for="numberOfFans">Number of fans:</label>
+                <input class="ui-control ui-input" id="numberOfFans" name="numberOfFans" type="number" min="0"
+                       step="1" value="0"/>
+                <input class="ui-control ui-button" type="submit" name="Create" value="Create"/>
+            </form>
+        </article>
+    </section>
+
+    <footer class="footer">
+        <p>Jakub Grudowski</p>
+    </footer>
+</div>
+</body>
+</html>

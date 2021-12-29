@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Main-Class: application.FindAthleteApplication
+Class-Path: netty-codec-http-4.1.52.Final.jar netty-codec-socks-4.1.52.F
+ inal.jar spring-boot-autoconfigure-2.3.4.RELEASE.jar netty-resolver-4.1
+ .52.Final.jar spring-security-crypto-5.3.4.RELEASE.jar spring-beans-5.2
+ .9.RELEASE.jar log4j-to-slf4j-2.13.3.jar spring-boot-starter-reactor-ne
+ tty-2.3.4.RELEASE.jar jackson-module-parameter-names-2.11.2.jar spring-
+ boot-starter-webflux-2.3.4.RELEASE.jar netty-common-4.1.52.Final.jar ne
+ tty-transport-native-unix-common-4.1.52.Final.jar logback-core-1.2.3.ja
+ r spring-boot-2.3.4.RELEASE.jar bcpkix-jdk15on-1.64.jar netty-codec-htt
+ p2-4.1.52.Final.jar spring-expression-5.2.9.RELEASE.jar netty-handler-p
+ roxy-4.1.52.Final.jar logback-classic-1.2.3.jar nio-multipart-parser-1.
+ 1.0.jar jackson-databind-2.11.2.jar netty-transport-4.1.52.Final.jar re
+ actor-core-3.3.10.RELEASE.jar reactive-streams-1.0.3.jar spring-webflux
+ -5.2.9.RELEASE.jar spring-boot-starter-validation-2.3.4.RELEASE.jar spr
+ ing-boot-starter-2.3.4.RELEASE.jar slf4j-api-1.7.30.jar jul-to-slf4j-1.
+ 7.30.jar reactor-extra-3.3.4.RELEASE.jar jakarta.validation-api-2.0.2.j
+ ar spring-core-5.2.9.RELEASE.jar reactor-netty-0.9.12.RELEASE.jar lombo
+ k-1.18.12.jar jackson-annotations-2.11.2.jar netty-codec-4.1.52.Final.j
+ ar spring-boot-starter-json-2.3.4.RELEASE.jar jakarta.el-3.0.3.jar nett
+ y-buffer-4.1.52.Final.jar log4j-api-2.13.3.jar spring-cloud-starter-gat
+ eway-2.2.5.RELEASE.jar spring-cloud-commons-2.2.5.RELEASE.jar classmate
+ -1.5.1.jar jackson-datatype-jsr310-2.11.2.jar spring-boot-starter-loggi
+ ng-2.3.4.RELEASE.jar spring-security-rsa-1.0.9.RELEASE.jar jackson-core
+ -2.11.2.jar spring-web-5.2.9.RELEASE.jar hibernate-validator-6.1.5.Fina
+ l.jar netty-transport-native-epoll-4.1.52.Final-linux-x86_64.jar snakey
+ aml-1.26.jar spring-cloud-gateway-core-2.2.5.RELEASE.jar spring-aop-5.2
+ .9.RELEASE.jar jackson-datatype-jdk8-2.11.2.jar spring-cloud-starter-2.
+ 2.5.RELEASE.jar nio-stream-storage-1.1.3.jar spring-cloud-context-2.2.5
+ .RELEASE.jar spring-jcl-5.2.9.RELEASE.jar spring-context-5.2.9.RELEASE.
+ jar netty-handler-4.1.52.Final.jar jboss-logging-3.4.1.Final.jar jakart
+ a.annotation-api-1.3.5.jar bcprov-jdk15on-1.64.jar
+

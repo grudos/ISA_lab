@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Main-Class: application.FindAthleteApplication
+Class-Path: spring-boot-starter-logging-2.3.4.RELEASE.jar spring-context
+ -5.2.9.RELEASE.jar spring-tx-5.2.9.RELEASE.jar jaxb-runtime-2.3.3.jar j
+ ackson-databind-2.11.2.jar spring-jcl-5.2.9.RELEASE.jar dom4j-2.1.3.jar
+  spring-beans-5.2.9.RELEASE.jar jakarta.annotation-api-1.3.5.jar logbac
+ k-core-1.2.3.jar spring-aop-5.2.9.RELEASE.jar lombok-1.18.12.jar jakart
+ a.transaction-api-1.3.3.jar spring-boot-starter-2.3.4.RELEASE.jar class
+ mate-1.5.1.jar jboss-logging-3.4.1.Final.jar hibernate-core-5.4.21.Fina
+ l.jar spring-data-jpa-2.3.4.RELEASE.jar spring-boot-starter-web-2.3.4.R
+ ELEASE.jar byte-buddy-1.10.14.jar log4j-api-2.13.3.jar spring-jdbc-5.2.
+ 9.RELEASE.jar log4j-to-slf4j-2.13.3.jar jakarta.activation-1.2.2.jar sn
+ akeyaml-1.26.jar tomcat-embed-core-9.0.38.jar spring-boot-2.3.4.RELEASE
+ .jar jakarta.el-3.0.3.jar jakarta.xml.bind-api-2.3.3.jar javassist-3.24
+ .0-GA.jar jackson-module-parameter-names-2.11.2.jar spring-aspects-5.2.
+ 9.RELEASE.jar jackson-datatype-jdk8-2.11.2.jar txw2-2.3.3.jar spring-ex
+ pression-5.2.9.RELEASE.jar spring-webmvc-5.2.9.RELEASE.jar spring-data-
+ commons-2.3.4.RELEASE.jar jackson-annotations-2.11.2.jar h2-1.4.200.jar
+  jakarta.activation-api-1.2.2.jar spring-boot-starter-data-jpa-2.3.4.RE
+ LEASE.jar jackson-datatype-jsr310-2.11.2.jar jandex-2.1.3.Final.jar Hik
+ ariCP-3.4.5.jar spring-boot-starter-aop-2.3.4.RELEASE.jar aspectjweaver
+ -1.9.6.jar spring-boot-autoconfigure-2.3.4.RELEASE.jar logback-classic-
+ 1.2.3.jar hibernate-commons-annotations-5.1.0.Final.jar slf4j-api-1.7.3
+ 0.jar istack-commons-runtime-3.0.11.jar spring-boot-starter-jdbc-2.3.4.
+ RELEASE.jar jakarta.persistence-api-2.2.3.jar spring-boot-starter-json-
+ 2.3.4.RELEASE.jar tomcat-embed-websocket-9.0.38.jar spring-core-5.2.9.R
+ ELEASE.jar spring-boot-starter-tomcat-2.3.4.RELEASE.jar jul-to-slf4j-1.
+ 7.30.jar spring-orm-5.2.9.RELEASE.jar spring-web-5.2.9.RELEASE.jar antl
+ r-2.7.7.jar jackson-core-2.11.2.jar
+
